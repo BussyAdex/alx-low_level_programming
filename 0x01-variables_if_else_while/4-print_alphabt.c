@@ -3,7 +3,7 @@
  * main - Entrypoint
  *
  * Description: This is to fix task 4-print_alphabt.c.
- * 
+ *
  * Return: Always (Success)
  */
 int main(void)
