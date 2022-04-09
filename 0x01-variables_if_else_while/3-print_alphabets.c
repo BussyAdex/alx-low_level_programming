@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entrypoint 
+ * main - Entrypoint
  *
  * Description: This to fix task 3-print_alphabets.c.
- *  
+ *
  * Return: Always (Success)
  */
 int main(void)
