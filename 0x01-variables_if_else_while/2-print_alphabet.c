@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main - Entrypoint 
+*main - Entry point
 *
 *Description: This is to fix task 2-print_alphabet.c
 *
