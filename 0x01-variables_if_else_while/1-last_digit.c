@@ -2,9 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main
+ * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Description: This is supposed to fix task 1-last-digit.c.
+ *
+ * Return: Always (Success)
  */
 int main(void)
 {
