@@ -1,6 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 /**
+ * main - Entrypoint
+ *
  * print _to_98 - print to 98
  *
  * description: funtion to print_to_98
