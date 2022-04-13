@@ -25,7 +25,7 @@ _putchar('0' + rep);
 }
 else
 {
-_putchar('0' +rep / 10);
+_putchar('0' + rep / 10);
 _putchar('0' + rep % 10);
 }
 if (b < 9)
@@ -35,7 +35,7 @@ _putchar(' ');
 }
 b++;
 }
-_putchar( '\n');
+_putchar('\n');
 a++;
 }
 }
