@@ -2,6 +2,9 @@
 #include <stdio.h>
 /**
  * print _to_98 - print to 98
+ * 
+ * Description: funtion to print_to_98
+ *
  * @n : number to start from
  * Return: 0 or 1
  */
