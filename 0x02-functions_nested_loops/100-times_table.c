@@ -17,6 +17,9 @@ for (b = 0; b <= n; b++)
 {
 rep = a * b;
 if (b == 0)
+_putchar('0' +rep);
+else if (Rep < 10)
+{
 _putchar(' ');
 _putchar(' ');
 _putchar('0' + rep);
