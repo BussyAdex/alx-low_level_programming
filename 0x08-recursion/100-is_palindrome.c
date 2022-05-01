@@ -27,7 +27,7 @@ int compare(char *s, int l)
 {
 	if (l <= 0)
 	{
-		return (l);
+		return (1);
 	}
 	if (*s == *(s + (l - 1)))
 	{
