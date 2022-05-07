@@ -24,7 +24,7 @@ char *str_concat(char *s1, char *s2)
 	ptr = s2;
 	if (s2)
 		while (*ptr++)
-			size++;
+			size2++;
 	else
 		s2 = "";
 
