@@ -120,7 +120,7 @@ int main(int argc, char *argv[])
 
 	if (argc != 3 || check_for_digits(argv))
 	{
-		for (t1 = 0; e[t1]; t1++)
+		for (ti = 0; e[ti]; ti++)
 			_putchar(e[t1]);
 		exit(98);
 	}
@@ -132,8 +132,8 @@ int main(int argc, char *argv[])
 	a = malloc(ln * sizeof(char));
 	if (a == NULL)
 	{
-		for (t1 = 0; e[t1]; t1++)
-			_putchar(e[t1]);
+		for (ti = 0; e[ti]; ti++)
+			_putchar(e[ti]);
 		exit(98);
 	}
 	init(a, ln - 1);
